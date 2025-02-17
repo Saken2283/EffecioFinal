@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1094295550201",
+    "project_id": "effecio-40dca",
+    "storage_bucket": "effecio-40dca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094295550201:android:7b8350e656951bb72c0a28",
+        "android_client_info": {
+          "package_name": "com.example.ccp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPAfIfIRDKZDwhBcuQI7BnSslr2t2NG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094295550201:android:9fedd6336189f2a62c0a28",
+        "android_client_info": {
+          "package_name": "com.example.ccpc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPAfIfIRDKZDwhBcuQI7BnSslr2t2NG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094295550201:android:1e8b22656e932d5a2c0a28",
+        "android_client_info": {
+          "package_name": "com.example.effeciofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPAfIfIRDKZDwhBcuQI7BnSslr2t2NG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
